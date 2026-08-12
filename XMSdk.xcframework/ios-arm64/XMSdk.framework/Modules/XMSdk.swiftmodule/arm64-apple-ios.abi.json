@@ -14626,6 +14626,33 @@
           },
           {
             "kind": "Var",
+            "name": "isLoaded",
+            "printedName": "isLoaded",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5XMSdk12SFBannerViewC8isLoaded33_08416ED1EACFB4A5DA3189C779E2BB40LLSbvp",
+            "mangledName": "$s5XMSdk12SFBannerViewC8isLoaded33_08416ED1EACFB4A5DA3189C779E2BB40LLSbvp",
+            "moduleName": "XMSdk",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 5,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
             "name": "intrinsicContentSize",
             "printedName": "intrinsicContentSize",
             "children": [
@@ -97185,7 +97212,7 @@
       "kind": "StringLiteral",
       "offset": 214,
       "length": 7,
-      "value": "\"1.7.5\""
+      "value": "\"1.7.6\""
     },
     {
       "filePath": "\/Users\/santi\/Desktop\/onemobh5sdk\/OneH5Sdk\/XMSdk\/sdk\/internal\/h5\/HConstants.swift",
@@ -97245,15 +97272,22 @@
     },
     {
       "filePath": "\/Users\/santi\/Desktop\/onemobh5sdk\/OneH5Sdk\/XMSdk\/sdk\/ api\/banner\/sf\/SFBannerView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 372,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/santi\/Desktop\/onemobh5sdk\/OneH5Sdk\/XMSdk\/sdk\/ api\/banner\/sf\/SFBannerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 693,
+      "offset": 726,
       "length": 3,
       "value": "320"
     },
     {
       "filePath": "\/Users\/santi\/Desktop\/onemobh5sdk\/OneH5Sdk\/XMSdk\/sdk\/ api\/banner\/sf\/SFBannerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 706,
+      "offset": 739,
       "length": 2,
       "value": "50"
     },

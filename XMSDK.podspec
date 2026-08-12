@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   # 私有库名称，必须和podspec文件名完全一致，后续pod 'xxx'就是用这个名字
   s.name             = 'XMSDK'
   # 版本号，必须和后续Git tag完全一致，不能加v前缀
-  s.version          = '1.7.5'
+  s.version          = '1.7.6'
   # 一句话简短描述，不能超过140个字符
   s.summary          = 'iOS ad SDK'
   # 详细描述，长度必须大于summary，可写SDK功能、适配说明
