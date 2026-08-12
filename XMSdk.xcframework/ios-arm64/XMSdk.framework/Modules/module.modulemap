@@ -1,0 +1,10 @@
+framework module XMSdk {
+  umbrella header "XMSdk.h"
+  export *
+
+  module * { export * }
+}
+
+module XMSdk.Swift {
+  header "XMSdk-Swift.h"
+}

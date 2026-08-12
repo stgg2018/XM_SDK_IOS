@@ -1,2 +1,2 @@
 # XM_SDK_IOS
-An iOS advertising SDK
+XMSDK IOS Repository
