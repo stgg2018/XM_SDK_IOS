@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   # 私有库名称，必须和podspec文件名完全一致，后续pod 'xxx'就是用这个名字
   s.name             = 'XMSDK'
   # 版本号，必须和后续Git tag完全一致，不能加v前缀
-  s.version          = '1.7.7'
+  s.version          = '1.7.8'
   # 一句话简短描述，不能超过140个字符
   s.summary          = 'iOS ad SDK'
   # 详细描述，长度必须大于summary，可写SDK功能、适配说明
@@ -40,6 +40,15 @@ Pod::Spec.new do |s|
   s.vendored_frameworks = 'XMSdk.xcframework'
   # 保留XCFramework完整目录结构，避免CocoaPods自动裁剪
   s.preserve_paths = 'XMSdk.xcframework/**/*'
+
+  # ====================  资源文件配置（Bundle+隐私清单） ====================
+  # 🔴 必须用resource_bundles，禁止用s.resources，避免和主工程资源重名覆盖
+  s.resource_bundles = {
+    # 命名规则：SDK名_xxx，必须全局唯一，避免重名
+    'XMSDK_Resources' => ['XMSdk.bundle/**/*'],
+    'XMSDK_Privacy' => ['PrivacyInfo.xcprivacy']
+  }
+  # 注意：如果你的Bundle已经嵌入到XCFramework内部，删除上面2行配置，无需额外声明
 
   # ====================  依赖配置（必须和XCFramework的依赖完全一致） ====================
   # 依赖的系统框架，XCFramework用到了什么就加什么

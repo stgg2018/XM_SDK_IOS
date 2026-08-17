@@ -13979,6 +13979,57 @@
         "children": [
           {
             "kind": "Var",
+            "name": "POD_NAME",
+            "printedName": "POD_NAME",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5XMSdk10HConstantsC8POD_NAMESSvpZ",
+            "mangledName": "$s5XMSdk10HConstantsC8POD_NAMESSvpZ",
+            "moduleName": "XMSdk",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5XMSdk10HConstantsC8POD_NAMESSvgZ",
+                "mangledName": "$s5XMSdk10HConstantsC8POD_NAMESSvgZ",
+                "moduleName": "XMSdk",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent",
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "SDK_NAME",
             "printedName": "SDK_NAME",
             "children": [
@@ -97198,68 +97249,75 @@
       "kind": "StringLiteral",
       "offset": 149,
       "length": 7,
-      "value": "\"XMSdk\""
+      "value": "\"XMSDK\""
     },
     {
       "filePath": "\/Users\/santi\/Desktop\/onemobh5sdk\/OneH5Sdk\/XMSdk\/sdk\/internal\/h5\/HConstants.swift",
       "kind": "StringLiteral",
       "offset": 183,
+      "length": 7,
+      "value": "\"XMSdk\""
+    },
+    {
+      "filePath": "\/Users\/santi\/Desktop\/onemobh5sdk\/OneH5Sdk\/XMSdk\/sdk\/internal\/h5\/HConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 217,
       "length": 9,
       "value": "\"xm_sdk_\""
     },
     {
       "filePath": "\/Users\/santi\/Desktop\/onemobh5sdk\/OneH5Sdk\/XMSdk\/sdk\/internal\/h5\/HConstants.swift",
       "kind": "StringLiteral",
-      "offset": 214,
+      "offset": 248,
       "length": 7,
-      "value": "\"1.7.7\""
+      "value": "\"1.7.8\""
     },
     {
       "filePath": "\/Users\/santi\/Desktop\/onemobh5sdk\/OneH5Sdk\/XMSdk\/sdk\/internal\/h5\/HConstants.swift",
       "kind": "StringLiteral",
-      "offset": 299,
+      "offset": 333,
       "length": 46,
       "value": "\"aHR0cHM6Ly9jb25zdW1hYmxlc2UuY29tL2FwaS9zZGs1\""
     },
     {
       "filePath": "\/Users\/santi\/Desktop\/onemobh5sdk\/OneH5Sdk\/XMSdk\/sdk\/internal\/h5\/HConstants.swift",
       "kind": "StringLiteral",
-      "offset": 419,
+      "offset": 453,
       "length": 42,
       "value": "\"aHR0cHM6Ly9jb25zdW1hYmxlc2UuY29tL2MuZ2lm\""
     },
     {
       "filePath": "\/Users\/santi\/Desktop\/onemobh5sdk\/OneH5Sdk\/XMSdk\/sdk\/internal\/h5\/HConstants.swift",
       "kind": "StringLiteral",
-      "offset": 503,
+      "offset": 537,
       "length": 34,
       "value": "\"f1c969dc64c35c2906599a013462c495\""
     },
     {
       "filePath": "\/Users\/santi\/Desktop\/onemobh5sdk\/OneH5Sdk\/XMSdk\/sdk\/internal\/h5\/HConstants.swift",
       "kind": "StringLiteral",
-      "offset": 585,
+      "offset": 619,
       "length": 46,
       "value": "\"aHR0cHM6Ly9jb25zdW1hYmxlc2UuY29tL2FwaS9zZGs1\""
     },
     {
       "filePath": "\/Users\/santi\/Desktop\/onemobh5sdk\/OneH5Sdk\/XMSdk\/sdk\/internal\/h5\/HConstants.swift",
       "kind": "StringLiteral",
-      "offset": 673,
+      "offset": 707,
       "length": 42,
       "value": "\"aHR0cHM6Ly9jb25zdW1hYmxlc2UuY29tL2MuZ2lm\""
     },
     {
       "filePath": "\/Users\/santi\/Desktop\/onemobh5sdk\/OneH5Sdk\/XMSdk\/sdk\/internal\/h5\/HConstants.swift",
       "kind": "StringLiteral",
-      "offset": 755,
+      "offset": 789,
       "length": 31,
       "value": "\"https:\/\/consumablese.com\/ssp\/\""
     },
     {
       "filePath": "\/Users\/santi\/Desktop\/onemobh5sdk\/OneH5Sdk\/XMSdk\/sdk\/internal\/h5\/HConstants.swift",
       "kind": "StringLiteral",
-      "offset": 820,
+      "offset": 854,
       "length": 31,
       "value": "\"https:\/\/consumablese.com\/ssp\/\""
     },

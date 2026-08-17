@@ -18,15 +18,15 @@
 		</data>
 		<key>Modules/XMSdk.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		kRlk8aUhjb38OwdGvqBoIeO0SY4=
+		Wu+mUyYPR1sJvmMLwHxxTq7FOZU=
 		</data>
 		<key>Modules/XMSdk.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		+sSUNe+5YxOejUqHHjI6PJt5ZIY=
+		H7o5d4JbE/gmYyGFPcc2qC5ZqXA=
 		</data>
 		<key>Modules/XMSdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		usChLxAAg5qttPufpsB24PyzWWg=
+		VBVkMv2n/Po27dFgDHJSXitfLQE=
 		</data>
 		<key>Modules/XMSdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>Modules/XMSdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Bj+QAJGuaPoJ6lOikErIlLYKShY=
+		2ivoN0gAMb0l0t4/1n8RpjTa3h8=
 		</data>
 		<key>Modules/XMSdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		usChLxAAg5qttPufpsB24PyzWWg=
+		VBVkMv2n/Po27dFgDHJSXitfLQE=
 		</data>
 		<key>Modules/XMSdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -62,56 +62,11 @@
 		</data>
 		<key>Modules/XMSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		BkjdIHBoCFCUV/qQ6EGSjZtyXOA=
+		7ftZr2n20tyM+/xyr9wAXP5D8do=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		AyfCSRWqnJkT75bCscHXpRnDa78=
-		</data>
-		<key>XMSdk.bundle/ xm_sdk_bg_action.png</key>
-		<data>
-		rhjAzWZzqMsYPa/cah2nHVQl5Qc=
-		</data>
-		<key>XMSdk.bundle/Root.plist</key>
-		<data>
-		jOhqEUF1/xyY+fuswiWT+ELC3dI=
-		</data>
-		<key>XMSdk.bundle/en.lproj/Root.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			t4KY9Gh4uIiOv7VnHtRrKEuPRY8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>XMSdk.bundle/xm_sdk_bg_adtag.png</key>
-		<data>
-		+Ur+dGlTlajZA+fPqaTuMAXeUCE=
-		</data>
-		<key>XMSdk.bundle/xm_sdk_ic_banner.png</key>
-		<data>
-		na437J2N7OmH7sSnc5WDNhWaqmU=
-		</data>
-		<key>XMSdk.bundle/xm_sdk_ic_close1.png</key>
-		<data>
-		hrc2xx0UQqa4BGVmhf9NBwvPhqI=
-		</data>
-		<key>XMSdk.bundle/xm_sdk_ic_close2.png</key>
-		<data>
-		N3bHmFuwNcKQOjQdwRqJZBUcAys=
-		</data>
-		<key>XMSdk.bundle/xm_sdk_ic_close3.png</key>
-		<data>
-		4PiAdCOjU6QC3/fy8ejzPFL9eFE=
-		</data>
-		<key>XMSdk.bundle/xm_sdk_ic_volume_check.png</key>
-		<data>
-		lTMRRWeijucY13DbOupNkLUQh+M=
-		</data>
-		<key>XMSdk.bundle/xm_sdk_ic_volume_uncheck.png</key>
-		<data>
-		rtBu68jVaRxmswCGR4j7nj7tUQU=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -134,21 +89,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			a42jXqlGKvzgqnm9H6vwJUNjnAsIT8lnNIVuSY94ZZY=
+			I4b0ue+vNVNlV/zaS2UkFfgB+0sit472gPcQrs2Eowk=
 			</data>
 		</dict>
 		<key>Modules/XMSdk.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OAO1lKhp1mYwUtBXGunUQui3YbCzbCCrAlR1FvxPpOY=
+			07gYy6risVZaT2GKyoxh3+Zd/8NxysD5evzzTGt167Y=
 			</data>
 		</dict>
 		<key>Modules/XMSdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oV3oMKhFMpU86I2YD5V7KDxDC5IxBDcPBEio/SRAxJg=
+			kzFlN1HyvC2plkwoIpLlLmvJZXDcbSd5hrOVBXUEVP8=
 			</data>
 		</dict>
 		<key>Modules/XMSdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -176,14 +131,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eQ9pxFhinwjesm04ufaiF5M7/aGnlEIVj4peSlFp7yw=
+			x+M0bbGnlOWtstgKEHQ+bxtEgA7dJ39KwR0KVVlotBw=
 			</data>
 		</dict>
 		<key>Modules/XMSdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oV3oMKhFMpU86I2YD5V7KDxDC5IxBDcPBEio/SRAxJg=
+			kzFlN1HyvC2plkwoIpLlLmvJZXDcbSd5hrOVBXUEVP8=
 			</data>
 		</dict>
 		<key>Modules/XMSdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -211,7 +166,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wwB1gyLslROIntwW/7Jf3uIlwPJLq14Bn+c/in6R34w=
+			QQo/1DZFH+ytVajyVJTP+OLJtmlvtBLSMmY6nBmmNnE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -219,78 +174,6 @@
 			<key>hash2</key>
 			<data>
 			OlHriMf+PmPdT7So/FihYGv+ZkFoVcnIj0PbhQP1/Vo=
-			</data>
-		</dict>
-		<key>XMSdk.bundle/ xm_sdk_bg_action.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ItN6ECSFZqmtFjpm+Z55Lw9d0cdlcI3vjHe0sYq5x/c=
-			</data>
-		</dict>
-		<key>XMSdk.bundle/Root.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			m26DmegPkB5jwUJkVEtLlObYALX8He100Ny0+NNJg/g=
-			</data>
-		</dict>
-		<key>XMSdk.bundle/en.lproj/Root.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			xUzNd7J7w99oAnMIWGe1dAGArHMuEXwQqxSziDU5vLk=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>XMSdk.bundle/xm_sdk_bg_adtag.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			IC1XSCEZZOx0tRsIaX3jKJQPOUNKPZt3OUSrw+5/5OA=
-			</data>
-		</dict>
-		<key>XMSdk.bundle/xm_sdk_ic_banner.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			gmlMQUKJ06wKQ6Qrd2D/z/6Y3Sb/C+VYBaZ822B+nHY=
-			</data>
-		</dict>
-		<key>XMSdk.bundle/xm_sdk_ic_close1.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			kHxWJzn59h8aVcwOFvm6WYKzdEm8Ax41W2Mcln784Ws=
-			</data>
-		</dict>
-		<key>XMSdk.bundle/xm_sdk_ic_close2.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			C8NMfDzpn1CjuTh4wR2sQQpLRxXaPJjzfP6ZnFR4cB8=
-			</data>
-		</dict>
-		<key>XMSdk.bundle/xm_sdk_ic_close3.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			FwavNMGP4FMKSmbNvQq/8M/dD5RhzetyBhoNP0Y8B6A=
-			</data>
-		</dict>
-		<key>XMSdk.bundle/xm_sdk_ic_volume_check.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			I4YNMSRmw2Trc1oFmoXhu+AxZTZPHJ2md+0SafWwh4g=
-			</data>
-		</dict>
-		<key>XMSdk.bundle/xm_sdk_ic_volume_uncheck.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JEUj9kYr3+pscdsvQf/kgFfTUlDCS3ztooIyWECF2ms=
 			</data>
 		</dict>
 	</dict>
